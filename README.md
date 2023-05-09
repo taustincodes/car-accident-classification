@@ -6,6 +6,8 @@ Machine Learning project using Data Cleaning techniques, Feature Selection and C
 
 ## Instructions
 
+**Note:** The required datasets are not provided in this repository.
+
 1. Ensure the working directory contains raw dataset files named
 "2020-accident.csv" and "2020-vehicle.csv". 
 
