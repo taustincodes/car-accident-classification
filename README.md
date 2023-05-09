@@ -28,7 +28,7 @@ number of configuration options can be changed as follows:
     containing the name of the desired .csv filename on line 18.
     - The use of SMOTE can be set to either "True" or "False" by editing the
     variable "useSMOTE" on line 20.
-    -When using SMOTE, the strategy can be changed by editing the variable
+    - When using SMOTE, the strategy can be changed by editing the variable
     "smote_strategy" on line 22
-    -The Classification algorithms can be changed and configurations edited by
+    - The Classification algorithms can be changed and configurations edited by
     editing the array "Classifiers" defined on line 24.
